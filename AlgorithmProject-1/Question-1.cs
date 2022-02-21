@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace Odevler
+namespace Project
 {
-    class Sorubir
+    class QuestionOne
     {
         static void Main(string[] args)
         {

@@ -1,0 +1,15 @@
+C:\Users\Mustafa GULER\Desktop\kodluyoruz-CSharp\Projects\ToDo\obj\Debug\net6.0\ToDo.csproj.AssemblyReference.cache
+C:\Users\Mustafa GULER\Desktop\kodluyoruz-CSharp\Projects\ToDo\obj\Debug\net6.0\ToDo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mustafa GULER\Desktop\kodluyoruz-CSharp\Projects\ToDo\obj\Debug\net6.0\ToDo.AssemblyInfoInputs.cache
+C:\Users\Mustafa GULER\Desktop\kodluyoruz-CSharp\Projects\ToDo\obj\Debug\net6.0\ToDo.AssemblyInfo.cs
+C:\Users\Mustafa GULER\Desktop\kodluyoruz-CSharp\Projects\ToDo\obj\Debug\net6.0\ToDo.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa GULER\Desktop\kodluyoruz-CSharp\Projects\ToDo\bin\Debug\net6.0\ToDo.exe
+C:\Users\Mustafa GULER\Desktop\kodluyoruz-CSharp\Projects\ToDo\bin\Debug\net6.0\ToDo.deps.json
+C:\Users\Mustafa GULER\Desktop\kodluyoruz-CSharp\Projects\ToDo\bin\Debug\net6.0\ToDo.runtimeconfig.json
+C:\Users\Mustafa GULER\Desktop\kodluyoruz-CSharp\Projects\ToDo\bin\Debug\net6.0\ToDo.dll
+C:\Users\Mustafa GULER\Desktop\kodluyoruz-CSharp\Projects\ToDo\bin\Debug\net6.0\ref\ToDo.dll
+C:\Users\Mustafa GULER\Desktop\kodluyoruz-CSharp\Projects\ToDo\bin\Debug\net6.0\ToDo.pdb
+C:\Users\Mustafa GULER\Desktop\kodluyoruz-CSharp\Projects\ToDo\obj\Debug\net6.0\ToDo.dll
+C:\Users\Mustafa GULER\Desktop\kodluyoruz-CSharp\Projects\ToDo\obj\Debug\net6.0\ref\ToDo.dll
+C:\Users\Mustafa GULER\Desktop\kodluyoruz-CSharp\Projects\ToDo\obj\Debug\net6.0\ToDo.pdb
+C:\Users\Mustafa GULER\Desktop\kodluyoruz-CSharp\Projects\ToDo\obj\Debug\net6.0\ToDo.genruntimeconfig.cache

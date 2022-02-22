@@ -1,0 +1,15 @@
+C:\Users\Mustafa GULER\Desktop\kodluyoruz-CSharp\Projects\TelephoneBook\bin\Debug\net6.0\TelephoneBook.exe
+C:\Users\Mustafa GULER\Desktop\kodluyoruz-CSharp\Projects\TelephoneBook\bin\Debug\net6.0\TelephoneBook.deps.json
+C:\Users\Mustafa GULER\Desktop\kodluyoruz-CSharp\Projects\TelephoneBook\bin\Debug\net6.0\TelephoneBook.runtimeconfig.json
+C:\Users\Mustafa GULER\Desktop\kodluyoruz-CSharp\Projects\TelephoneBook\bin\Debug\net6.0\TelephoneBook.dll
+C:\Users\Mustafa GULER\Desktop\kodluyoruz-CSharp\Projects\TelephoneBook\bin\Debug\net6.0\ref\TelephoneBook.dll
+C:\Users\Mustafa GULER\Desktop\kodluyoruz-CSharp\Projects\TelephoneBook\bin\Debug\net6.0\TelephoneBook.pdb
+C:\Users\Mustafa GULER\Desktop\kodluyoruz-CSharp\Projects\TelephoneBook\obj\Debug\net6.0\TelephoneBook.csproj.AssemblyReference.cache
+C:\Users\Mustafa GULER\Desktop\kodluyoruz-CSharp\Projects\TelephoneBook\obj\Debug\net6.0\TelephoneBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mustafa GULER\Desktop\kodluyoruz-CSharp\Projects\TelephoneBook\obj\Debug\net6.0\TelephoneBook.AssemblyInfoInputs.cache
+C:\Users\Mustafa GULER\Desktop\kodluyoruz-CSharp\Projects\TelephoneBook\obj\Debug\net6.0\TelephoneBook.AssemblyInfo.cs
+C:\Users\Mustafa GULER\Desktop\kodluyoruz-CSharp\Projects\TelephoneBook\obj\Debug\net6.0\TelephoneBook.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa GULER\Desktop\kodluyoruz-CSharp\Projects\TelephoneBook\obj\Debug\net6.0\TelephoneBook.dll
+C:\Users\Mustafa GULER\Desktop\kodluyoruz-CSharp\Projects\TelephoneBook\obj\Debug\net6.0\ref\TelephoneBook.dll
+C:\Users\Mustafa GULER\Desktop\kodluyoruz-CSharp\Projects\TelephoneBook\obj\Debug\net6.0\TelephoneBook.pdb
+C:\Users\Mustafa GULER\Desktop\kodluyoruz-CSharp\Projects\TelephoneBook\obj\Debug\net6.0\TelephoneBook.genruntimeconfig.cache

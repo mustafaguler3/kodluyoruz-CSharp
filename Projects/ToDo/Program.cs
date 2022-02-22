@@ -31,7 +31,7 @@ namespace ConsoleApp
                     int size = Convert.ToInt32(Console.ReadLine());
                     Console.WriteLine("Kişi Seçiniz");   
                     int id = Convert.ToInt32(Console.ReadLine());
-                    Card card = new Card(title,content, (Card.Size)size,new Member(id));
+                    Card card = new Card(title,content, (Card.Size)size);
 
                     board.Add(card);
                     System.Console.WriteLine("Card eklendi."); 
@@ -47,7 +47,7 @@ namespace ConsoleApp
                     }
                     break;
                 case 4:
-                    
+
                     break;            
             }
 

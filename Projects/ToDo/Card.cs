@@ -18,6 +18,13 @@ namespace ToDo
             this.size = size;
         }
 
+        public Card(string? title, string? content, Size size)
+        {
+            this.title = title;
+            this.content = content;
+            this.size = size;
+        }
+
         public enum Size
         {
             XS = 1,
